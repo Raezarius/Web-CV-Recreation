@@ -1,4 +1,5 @@
-ReactDOM.render(<App />, document.getElementById('root'));
+const container = document.getElementById('root');
+const root = ReactDOM.createRoot(container);
 
 function MyButton() {
     return (
@@ -8,11 +9,4 @@ function MyButton() {
     );
   }
 
-  export default function MyApp() {
-    return (
-      <div>
-        <h1>Welcome to my app</h1>
-        <MyButton />
-      </div>
-    );
-  }
+root.render(<MyButton />);
