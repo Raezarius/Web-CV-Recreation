@@ -3,13 +3,17 @@ const root = ReactDOM.createRoot(container);
 
 const element = (
     <table>
-    <tr>
-      <th>Wan Adam<br> Raezlan</br></th>
-      <td>Front-end Developer</td>
-    </tr>
-    <tr>
-      <td>John</td>
-    </tr>
+        <thead>
+            <tr>
+            <th>Wan Adam<br> Raezlan</br></th>
+            <td>Front-end Developer</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>John</td>
+            </tr>
+        </tbody>
   </table>
 );
 
