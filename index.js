@@ -8,6 +8,9 @@ const element = (
             <th>Wan Adam Raezlan</th>
             <td>Front-end Developer</td>
             </tr>
+            <tr>
+            <th>Raezlan</th>
+            </tr>
         </thead>
         <tbody>
             <tr>
