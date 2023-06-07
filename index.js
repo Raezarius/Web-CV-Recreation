@@ -1,4 +1,6 @@
 const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
 
-root.render(<p>Hello</p>);
+const element = <p>Hello</p>;
+
+root.render(element);
