@@ -5,11 +5,17 @@ const element = (
     <table>
         <thead>
             <tr>
-            <th>Wan Adam Raezlan</th>
-            <td>Front-end Developer</td>
+            <td>Wan Adam</td>
+            <td>Wan Adam Raezlan bin Safian Aziz Kasim</td>
             </tr>
+
             <tr>
-            <th>Raezlan</th>
+            <td>Raezlan</td>
+            <td>170, Jalan Sri Hartamas 2, Sri Hartamas, 50480, Kuala Lumpur</td>
+            </tr>
+
+            <tr>
+            <td>Front-end Developer</td>
             </tr>
         </thead>
         <tbody>
