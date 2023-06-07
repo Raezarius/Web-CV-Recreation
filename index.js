@@ -1,0 +1,19 @@
+import App from './App';
+ReactDOM.render(<App />, document.getElementById('root'));
+
+function MyButton() {
+    return (
+      <button>
+        I'm a button
+      </button>
+    );
+  }
+
+  export default function MyApp() {
+    return (
+      <div>
+        <h1>Welcome to my app</h1>
+        <MyButton />
+      </div>
+    );
+  }
