@@ -20,9 +20,9 @@ const element = (
             </tr>
 
             <tr>
-            <td>
-                <p className="leftSide">ㅡ</p>
-                <h3 className="leftSide">Skills</h3>
+            <td className="leftSide">
+                <p>ㅡ</p>
+                <h3>Skills</h3>
             </td>
             <td>
                 <ul>
@@ -37,9 +37,9 @@ const element = (
             </tr>
 
             <tr>
-            <td>
-                <p className="leftSide">ㅡ</p>
-                <h3 className="leftSide">Experience</h3>
+            <td className="leftSide">
+                <p>ㅡ</p>
+                <h3>Experience</h3>
             </td>
             <td>
                 <h2>REKA / Game Developer</h2>
@@ -57,9 +57,9 @@ const element = (
             </tr>
 
             <tr>
-            <td>
-                <p className="leftSide">ㅡ</p>
-                <h3 className="leftSide">Education</h3>
+            <td className="leftSide">
+                <p>ㅡ</p>
+                <h3>Education</h3>
             </td>
             <td>
                 <h2>Multimedia University / Bachelor of Multimedia (Honours) (Virtual Reality)</h2>
@@ -69,9 +69,9 @@ const element = (
             </tr>
 
             <tr>
-            <td>
-                <p className="leftSide">ㅡ</p>
-                <h3 className="leftSide">Projects</h3>
+            <td className="leftSide">
+                <p>ㅡ</p>
+                <h3>Projects</h3>
             </td>
             <td>
                 <h2>Booth Ad / A short interactable advertisement(Ongoing project)</h2>
