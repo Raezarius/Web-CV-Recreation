@@ -15,6 +15,7 @@ table {
 h1 {
     font-family: "Raleway";
     font-size: 24pt;
+    margin-bottom: 0.2;
 }
 
 h2 {
@@ -47,6 +48,10 @@ p {
 li {
     font-family: "Lato";
     font-size: 11pt;
+}
+
+.line {
+    margin: 0;
 }
 
 .leftSide {
