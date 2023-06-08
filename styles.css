@@ -11,6 +11,40 @@ body {
 table {
     width: 100%;
 }
+h1 {
+    font-family: "Raleway";
+    font-size: 24pt;
+}
+
+h2 {
+    font-family: "Raleway";
+    font-size: 16pt;
+}
+
+h3 {
+    font-family: "Raleway";
+    font-size: 12pt;
+}
+
+h4 {
+    font-family: "Lato";
+    font-size: 11pt;
+}
+
+h5 {
+    font-family: "Lato";
+    font-size: 9pt;
+}
+
+p {
+    font-family: "Lato";
+    font-size: 10pt;
+}
+
+li {
+    font-family: "Lato";
+    font-size: 11pt;
+}
 
 .leftSide {
     width: 250px;
