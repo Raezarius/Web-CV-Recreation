@@ -20,6 +20,20 @@ const element = (
             </tr>
 
             <tr>
+            <td>
+                <p>ㅡ</p>
+                <p>Skills</p>
+            </td>
+            <td>
+                <ul>
+                    <li>Game Design</li>
+                    <li>HTML</li>
+                    <li>Javascript</li>
+                    <li>C# for Unity</li>
+                    <li>UE5</li>
+                    <li>Sound Design</li>
+                </ul>
+            </td>
             </tr>
         </thead>
         <tbody>
