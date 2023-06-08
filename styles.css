@@ -6,6 +6,7 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
+    max-width: 504pt;
 }
 
 table {
