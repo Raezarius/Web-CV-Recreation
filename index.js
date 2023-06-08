@@ -5,7 +5,7 @@ const element = (
     <table>
         <thead>
             <tr>
-            <td classname="leftSide">
+            <td className="leftSide">
                 <h1>Wan Adam Raezlan</h1>
                 <h2>Front-end Developer</h2>
             </td>
