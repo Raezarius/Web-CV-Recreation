@@ -10,6 +10,7 @@ const element = (
                 <h2>Front-end Developer</h2>
             </td>
             <td>
+                <h1>________________________________________</h1>
                 <h3>Wan Adam Raezlan bin Safian Aziz Kasim</h3>
                 <p>170, Jalan Sri Hartamas 2, Sri Hartamas,</p>
                 <p>50480, Kuala Lumpur</p>
@@ -25,6 +26,7 @@ const element = (
                 <h3>Skills</h3>
             </td>
             <td>
+                <h1>________________________________________</h1>
                 <ul>
                     <li>Game Design</li>
                     <li>HTML</li>
@@ -42,6 +44,7 @@ const element = (
                 <h3>Experience</h3>
             </td>
             <td>
+                <h1>________________________________________</h1>
                 <h4>REKA / Game Developer</h4>
                 <h5>AUGUST 2022 - JANUARY 2023, Kuala Lumpur</h5>
                 <p>Contracted as a programmer to continue development of the game made during prior internship.</p>
@@ -62,6 +65,7 @@ const element = (
                 <h3>Education</h3>
             </td>
             <td>
+                <h1>________________________________________</h1>
                 <h4>Multimedia University / Bachelor of Multimedia (Honours) (Virtual Reality)</h4>
                 <h5>JUNE 2015 - MAY 2019, Cyberjaya</h5>
                 <p>Studied User Experience and Interaction within a virtual 3D space, specialised mostly in audio with some knowledge in 3D Modeling and Programming.</p>
@@ -74,6 +78,7 @@ const element = (
                 <h3>Projects</h3>
             </td>
             <td>
+                <h1>________________________________________</h1>
                 <h4>Booth Ad / A short interactable advertisement(Ongoing project)</h4>
                 <p>A collaboration project with an artist to promote their booth during art conventions. Made mostly with Javascript and HTML, with the assistance of the A-Frame web framework.</p>
 
