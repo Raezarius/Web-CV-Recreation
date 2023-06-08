@@ -9,15 +9,17 @@ const element = (
                 <p>Wan Adam Raezlan</p>
                 <p>Front-end Developer</p>
             </td>
-            <td>Wan Adam Raezlan bin Safian Aziz Kasim</td>
+            <td>
+                <p>Wan Adam Raezlan bin Safian Aziz Kasim</p>
+                <p>170, Jalan Sri Hartamas 2, Sri Hartamas,</p>
+                <p>50480, Kuala Lumpur</p>
+                <p></p>
+                <p>012-3923552</p>
+                <p>raezlan@gmail.com</p>
+            </td>
             </tr>
 
             <tr>
-            <td>170, Jalan Sri Hartamas 2, Sri Hartamas,</td>
-            <tr>50480, Kuala Lumpur</tr>
-            <tr></tr>
-            <tr>012-3923552</tr>
-            <tr>raezlan@gmail.com</tr>
             </tr>
         </thead>
         <tbody>
