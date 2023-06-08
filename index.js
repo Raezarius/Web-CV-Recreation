@@ -12,10 +12,10 @@ const element = (
             <tr>
             <td>Raezlan</td>
             <td>170, Jalan Sri Hartamas 2, Sri Hartamas,</td>
-            <td>50480, Kuala Lumpur</td>
-            <td></td>
-            <td>012-3923552</td>
-            <td>raezlan@gmail.com</td>
+            <tr>50480, Kuala Lumpur</tr>
+            <tr></tr>
+            <tr>012-3923552</tr>
+            <tr>raezlan@gmail.com</tr>
             </tr>
 
             <tr>
