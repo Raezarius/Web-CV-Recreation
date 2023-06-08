@@ -11,7 +11,11 @@ const element = (
 
             <tr>
             <td>Raezlan</td>
-            <td>"170, Jalan Sri Hartamas 2, Sri Hartamas,"<br> "50480, Kuala Lumpur"</br></td>
+            <td>170, Jalan Sri Hartamas 2, Sri Hartamas,</td>
+            <td>50480, Kuala Lumpur</td>
+            <td></td>
+            <td>012-3923552</td>
+            <td>raezlan@gmail.com</td>
             </tr>
 
             <tr>
@@ -19,9 +23,7 @@ const element = (
             </tr>
         </thead>
         <tbody>
-            <tr>
-            <td>John</td>
-            </tr>
+        
         </tbody>
   </table>
 );
