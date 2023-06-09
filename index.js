@@ -14,8 +14,7 @@ const element = (
                 <h3>Wan Adam Raezlan bin Safian Aziz Kasim</h3>
                 <p>170, Jalan Sri Hartamas 2, Sri Hartamas,</p>
                 <p>50480, Kuala Lumpur</p>
-                <p></p>
-                <p className="c2">012-3923552</p>
+                <p id="sp" className="c2">012-3923552</p>
                 <p className="c2">raezlan@gmail.com</p>
             </td>
             </tr>

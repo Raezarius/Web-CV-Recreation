@@ -58,7 +58,7 @@ li {
 .leftSide {
     width: 250px;
     vertical-align: top;
-    padding-top: 5px;
+    padding-top: 25px;
 }
 
 #c1 {
@@ -67,4 +67,8 @@ li {
 
 .c2 {
     color: #d44500;
+}
+
+#sp {
+    margin-top: 10px;
 }
