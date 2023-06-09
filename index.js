@@ -44,15 +44,15 @@ const element = (
             </td>
             <td>
                 <h1 className="line">________________________</h1>
-                <h4>REKA / Game Developer</h4>
+                <h4>REKA / <span>Game Developer</span></h4>
                 <h5>AUGUST 2022 - JANUARY 2023, Kuala Lumpur</h5>
                 <p>Contracted as a programmer to continue development of the game made during prior internship.</p>
 
-                <h4>REKA / Intern</h4>
+                <h4>REKA / <span>Intern</span></h4>
                 <h5>FEBRUARY 2022 - JULY 2022, Kuala Lumpur</h5>
                 <p>Worked as a programming intern to develop a game on Unity, then moved to UE5 in a group of three. Helped with ideation in other projects.</p>
 
-                <h4>SO REAL / Intern</h4>
+                <h4>SO REAL / <span>Intern</span></h4>
                 <h5>APRIL 2018 - JUNE 2018, Puchong</h5>
                 <p>Worked as an intern in game designing on Unity and assisting in dialogue recording and programming.</p>
             </td>
@@ -65,7 +65,7 @@ const element = (
             </td>
             <td>
                 <h1 className="line">________________________</h1>
-                <h4>Multimedia University / Bachelor of Multimedia (Honours) (Virtual Reality)</h4>
+                <h4>Multimedia University / <span>Bachelor of Multimedia (Honours) (Virtual Reality)</span></h4>
                 <h5>JUNE 2015 - MAY 2019, Cyberjaya</h5>
                 <p>Studied User Experience and Interaction within a virtual 3D space, specialised mostly in audio with some knowledge in 3D Modeling and Programming.</p>
             </td>
@@ -78,10 +78,10 @@ const element = (
             </td>
             <td>
                 <h1 className="line">________________________</h1>
-                <h4 className="bs">Booth Ad / A short interactable advertisement(Ongoing project)</h4>
+                <h4 className="bs">Booth Ad / <span>A short interactable advertisement(Ongoing project)</span></h4>
                 <p>A collaboration project with an artist to promote their booth during art conventions. Made mostly with Javascript and HTML, with the assistance of the A-Frame web framework.</p>
 
-                <h4 className="bs">Recallum / A word memory game</h4>
+                <h4 className="bs">Recallum / <span>A word memory game</span></h4>
                 <p>Recallum was created as a means to promote Reka’s booth during Universiti Malaya’s Makerthon event. Made with Javascript and HTML.</p>
             </td>
             </tr>
