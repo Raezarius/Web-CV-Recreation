@@ -7,7 +7,7 @@ const element = (
             <tr>
             <td className="leftSide">
                 <h1>Wan Adam Raezlan</h1>
-                <h2>Front-end Developer</h2>
+                <h2 id="c1">Front-end Developer</h2>
             </td>
             <td>
                 <h1 className="line">________________________</h1>
@@ -15,8 +15,8 @@ const element = (
                 <p>170, Jalan Sri Hartamas 2, Sri Hartamas,</p>
                 <p>50480, Kuala Lumpur</p>
                 <p></p>
-                <p>012-3923552</p>
-                <p>raezlan@gmail.com</p>
+                <p className="c2">012-3923552</p>
+                <p className="c2">raezlan@gmail.com</p>
             </td>
             </tr>
 

@@ -48,6 +48,7 @@ p {
 li {
     font-family: "Lato";
     font-size: 11pt;
+    margin-top: 5px;
 }
 
 .line {
@@ -57,4 +58,13 @@ li {
 .leftSide {
     width: 250px;
     vertical-align: top;
+    padding-top: 5px;
+}
+
+#c1 {
+    color: #f2511b;
+}
+
+.c2 {
+    color: #d44500;
 }
