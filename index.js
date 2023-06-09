@@ -78,10 +78,10 @@ const element = (
             </td>
             <td>
                 <h1 className="line">________________________</h1>
-                <h4>Booth Ad / A short interactable advertisement(Ongoing project)</h4>
+                <h4 className="bs">Booth Ad / A short interactable advertisement(Ongoing project)</h4>
                 <p>A collaboration project with an artist to promote their booth during art conventions. Made mostly with Javascript and HTML, with the assistance of the A-Frame web framework.</p>
 
-                <h4>Recallum / A word memory game</h4>
+                <h4 className="bs">Recallum / A word memory game</h4>
                 <p>Recallum was created as a means to promote Reka’s booth during Universiti Malaya’s Makerthon event. Made with Javascript and HTML.</p>
             </td>
             </tr>

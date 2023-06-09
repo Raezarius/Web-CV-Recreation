@@ -32,12 +32,14 @@ h3 {
 h4 {
     font-family: "Lato";
     font-size: 11pt;
+    margin-bottom: 5px;
 }
 
 h5 {
     font-family: "Lato";
     font-size: 9pt;
     margin-top: 0;
+    margin-bottom: 10px;
 }
 
 p {
@@ -72,4 +74,8 @@ li {
 
 #sp {
     margin-top: 10px;
+}
+
+.bs {
+    margin-bottom: 10px;
 }
