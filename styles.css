@@ -74,9 +74,13 @@ li {
 }
 
 #sp {
-    margin-top: 10px;
+    margin-top: 13px;
 }
 
 .bs {
     margin-bottom: 10px;
+}
+
+.bsName {
+    margin-bottom: 5px;
 }

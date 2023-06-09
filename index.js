@@ -11,7 +11,7 @@ const element = (
             </td>
             <td>
                 <h1 className="line">________________________</h1>
-                <h3 className="bs">Wan Adam Raezlan bin Safian Aziz Kasim</h3>
+                <h3 className="bsName">Wan Adam Raezlan bin Safian Aziz Kasim</h3>
                 <p>170, Jalan Sri Hartamas 2, Sri Hartamas,</p>
                 <p>50480, Kuala Lumpur</p>
                 <p id="sp" className="c2">012-3923552</p>
